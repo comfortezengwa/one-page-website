@@ -1,0 +1,710 @@
+/* screens max-width 1250px */
+
+@media (max-width: 1250px) {
+
+#list {
+    font-size: x-large;
+    gap: 70px;
+}
+
+}
+
+
+/* screens max-width 992px */
+
+@media (max-width: 992px) {
+
+#Nav1 a {
+    font-size: small;
+}
+
+#Nav2 a {
+    font-size: small;
+}
+
+#Herotext {
+    line-height: 1.2;
+    top: 85%;
+}
+
+#Herotext p {
+    font-size: x-large;
+}
+
+#Herotext h1 {
+    font-size: 160px;
+}
+
+#Herotext hr {
+    width: 600px;
+}
+
+#Herotext h3 {
+    font-size: 36px;
+}
+
+#see a {
+    padding: 18px 60px;
+    font-weight: 100;
+}
+
+#New {
+    font-size: smaller;
+}
+
+#Popular {
+    font-size: smaller;
+}
+
+
+#LatestBox {
+    height: 640px;
+}
+
+
+#LatestBox h2 {
+    font-size: large;
+    margin-top: 100px;
+    margin-bottom: 80px;
+    align-items: center;
+}
+
+
+#blogs p, #blog2 p, #blog3 p, #blog4 p, #blog5 p {
+    font-size: x-small;
+    padding: 4px;
+    border-radius: 2px;
+}
+
+#blogs a, #blog2 a, #blog3 a, #blog4 a, #blog5 a {
+    font-size: smaller;
+    margin-right: 10px;
+}
+
+#blogs ul li {
+    gap: 20px;
+    margin-right: 100px;
+}
+
+#model img {
+    margin-left: 50px;
+    width: 400px;
+    height: 350px;
+}
+
+#modeloverlay {
+    left: 20%;
+}
+
+#Brands h2 {
+    font-size: larger;
+}
+
+#list  {
+    font-size: large;
+    gap: 70px;
+}
+
+#back {
+    font-size: medium;
+}
+
+#footer {
+    gap: 50px;
+    height: 380px;
+}
+
+
+#about, #information, #account, #customer {
+    margin-top: 80px;
+}
+
+
+#about h4, #information h4, #account h4, #customer h4 {
+    font-size: large;
+}
+
+#about p, #information p, #account p, #customer p {
+    font-size: medium;
+    margin-top: 2px;
+}
+
+}
+
+
+
+/* screens max-width 768px */
+
+@media (max-width: 768px) {
+
+#Nav1 a {
+    font-size: small;
+}
+
+#Nav1 ul li {
+    margin: 20px 10px;
+}
+
+#Nav2 a {
+    font-size: small;
+}
+
+#Nav2 ul li {
+    display: inline-block;
+    margin: 5px 10px;
+}
+
+#Herotext {
+    line-height: 1.3;
+    top: 68%;
+}
+
+#Herotext p {
+    font-size: large;
+}
+
+#Herotext h1 {
+    font-size: 120px;
+}
+
+#Herotext hr {
+    width: 400px;
+}
+
+#Herotext h3 {
+    font-size: 20px;
+}
+
+
+#see a {
+    padding: 14px 38px;
+    font-weight: 60;
+    font-size: small;
+    margin-top: 50px;
+}
+
+#New {
+    font-size: small;
+    margin-top: 100px;
+    margin-bottom: 80px;
+}
+
+#new1, #new2, #new3, #new4, #new5 {
+    height: 180px;
+    margin: 8px;
+    border-radius: 6px;
+    padding: 8px;
+}
+
+#Newimages img {
+    height: 180px;
+}
+
+#Popular {
+    font-size: small;
+    margin-top: 100px;
+    margin-bottom: 80px;
+}
+
+#image1, #image2, #image3, #image4, #image5, #image6 {
+    height: 320px;
+    margin: 8px;
+    padding: 8px;
+    border-radius: 6px;
+}
+
+#Popularimages img  {
+    height: 240px;
+}
+
+#image1 p, #image2 p, #image3 p, #image4 p, #image5 p, #image6 p {
+    font-size: small;
+    margin-left: 16px;
+}
+
+#LatestBox {
+    height: 600px;
+}
+
+#LatestBox h2 {
+    margin-bottom: 80px;
+    margin-top: 100px;
+    font-size: large;
+}
+
+#LatestBoxContent {
+    display: flex;
+    justify-self: center;
+    align-items: center;
+}
+
+#model img {
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    margin-left: auto;
+}
+
+#modeloverlay {
+    font-size: medium;
+    left: 25%;
+}
+
+#blogs ul li {
+    gap: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+#blogs p, #blog2 p, #blog3 p, #blog4 p, #blog5 p {
+    margin-bottom: 28px;
+    font-size: x-small;
+    padding: 4px;
+    border-radius: 3px;
+}
+
+#blogs a, #blog2 a, #blog3 a, #blog4 a, #blog5 a {
+    font-size: small;
+}
+
+#Brands {
+    height: 200px;
+}
+
+#Brands h2 {
+    font-size: large;
+    margin-top: 100px;
+    margin-bottom: 80px;
+}
+
+#list  {
+    font-size: medium;
+    gap: 30px;
+}
+
+#back {
+    font-size: small;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+#footer {
+    gap: 4px;
+    height: 280px;
+}
+
+
+#about, #information, #account, #customer {
+    gap: 14px;
+    margin-top: 80px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#about h4, #information h4, #account h4, #customer h4 {
+    font-size: medium;
+    margin-bottom: 14px;
+}
+
+
+#about p, #information p, #account p, #customer p {
+    font-size: small;
+    margin-top: none;
+    opacity: 1;
+}
+
+#h6 {
+    font-size: small;
+    font-weight: lighter;
+}
+
+}
+
+
+/* screens max-width 576px */
+
+@media (max-width: 576px) {    
+
+    #Herotext {
+        line-height: 1.2;
+        top: 58%;
+    }
+    
+    #Herotext p {
+        font-size: medium;
+    }
+    
+    #Herotext h1 {
+        font-size: 92px;
+    }
+    
+    #Herotext hr {
+        width: 260px;
+    }
+    
+    #Herotext h3 {
+        font-size: 18px;
+    }
+
+    #see a {
+        padding: 12px 28px;
+        font-weight: 70;
+        font-size: x-small;
+        margin-top: 50px;
+    }
+
+    #New {
+        font-size: x-small;
+        margin-top: 100px;
+        margin-bottom: 80px;
+    }
+    
+    #new1, #new2, #new3, #new4, #new5 {
+        height: 160px;
+        margin: 4px;
+        border-radius: 6px;
+        width: calc(20% - 10px);
+        padding: 6px;
+    }
+    
+    #Newimages img {
+        height: 160px;
+    }
+
+    #Popular {
+        font-size: x-small;
+        margin-top: 100px;
+        margin-bottom: 80px;
+    }
+    
+    #image1, #image2, #image3, #image4, #image5, #image6 {
+        height: 260px;
+    }
+    
+    #Popularimages img  {
+        height: 180px;
+    }
+    
+    #image1 p, #image2 p, #image3 p, #image4 p, #image5 p, #image6 p {
+        font-size: x-small;
+        margin-left: 10px;
+    }
+
+    #LatestBox {
+        height: 530px;
+        align-content: center;
+    }
+    
+    #LatestBox h2 {
+        margin-bottom: 80px;
+        font-size: medium;
+    }
+
+    #model img {
+        width: 250px;
+        height: 250px;
+        border-radius: 10px;
+        margin-left: 20px;
+        margin-bottom: 90px;
+    }
+    
+    #modeloverlay {
+        font-size: medium;
+        left: 20%;
+    }
+    
+    #blogs ul li {
+        gap: 8px;
+    }
+    
+    #blogs p, #blog2 p, #blog3 p, #blog4 p, #blog5 p {
+        font-size: xx-small;
+        border-radius: 2px;
+    }
+    
+    #blogs a, #blog2 a, #blog3 a, #blog4 a, #blog5 a {
+        font-size: x-small;
+        margin-right: 10px;
+    }
+
+    #Brands {
+        height: 140px;
+    }
+    
+    #Brands h2 {
+        font-size: medium;
+    }
+    
+    #list  {
+        font-size: small;
+        gap: 20px;
+        margin-bottom: 120px;
+        margin-top: 20px;
+    }
+    
+    #back {
+        font-size: xx-small;
+        margin-bottom: 20px;
+        font-weight: 600;
+    }
+
+    #footer {
+        gap: 10px;
+        height: 260px;
+    }
+    
+    
+    #about, #information, #account, #customer {
+        gap: 20px;
+        margin-top: 60px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    
+    #about h4, #information h4, #account h4, #customer h4 {
+        font-size: small;
+        margin-bottom: 12px;
+    }
+    
+    
+    #about p, #information p, #account p, #customer p {
+        font-size: x-small;
+        margin-top: none;
+        opacity: 1;
+    }
+    
+    #h6 {
+        font-size: xx-small;
+        font-weight: lighter;
+    }
+}
+
+
+/* screens max-width 320px */
+
+@media (max-width: 320px) {
+
+   
+    #Nav1 ul {
+        text-align: right;
+    }
+    
+    #Nav1 ul li {
+        margin: 2px 2px;
+    }
+
+    #Nav1 a {
+        font-size: 8px;
+    }
+    
+    
+    #Nav2 ul {
+        text-align: right;
+    }
+    
+    #Nav2 ul li {
+        margin: 1px 2px;
+    }
+
+    #Nav2 a {
+        font-size: 8px;
+    }
+
+    #Hero {
+        margin: 10px 0px;
+    }
+    
+    #Herotext {
+        line-height: 1.3;
+        top: 31%;
+        left: 50%;
+    }
+    
+    #Herotext p {
+        font-size: x-small;
+        font-weight: 100;
+    }
+    
+    #Herotext h1 {
+        font-weight: 900;
+        font-size: 46px;
+    }
+    
+    #Herotext hr {
+        width: 160px;
+        height: 0px;
+        border: 0.2px solid black;
+        
+    }
+    
+    #Herotext h3 {
+        font-weight: 400;
+        font-size: 12px;
+    }
+
+    #see a {
+        margin-top: 20px;
+        padding: 6px 10px;
+        font-size: 8px;
+    }
+
+    #New {
+        margin-top: 50px;
+        margin-bottom: 20px;
+        font-size: 8px;
+    }
+    
+    #new1, #new2, #new3, #new4, #new5 {
+        height: 60px;
+        width: calc(20% - 10px);
+        margin: 4px;
+        border-radius: 4px;
+        padding: 4px;
+    }
+    
+    #Newimages img {
+        height: 60px;
+        width: 100%;
+    }
+
+    #Popular {
+        margin-top: 60px;
+        margin-bottom: 20px;
+        font-size: 8px;
+    }
+    
+    #image1, #image2, #image3, #image4, #image5, #image6 {
+        height: 140px;
+        margin: 4px;
+        padding: 6px;
+        border-radius: 4px;
+        width: calc(50% - 30px);
+        border: 1px solid whitesmoke;
+        margin-bottom: 20px;
+    }
+    
+    #Popularimages img  {
+        height: 100px;
+    }
+
+    #image1 p, #image2 p, #image3 p, #image4 p, #image5 p, #image6 p {
+        font-size: 8px;
+        margin-left: 8px;
+        margin-bottom: -16px;
+    }
+
+    #LatestBox {
+        height: 570px;
+        align-items: center;
+    }
+    
+    #LatestBox h2 {
+        text-align: center;
+        margin-top: 60px;
+        margin-bottom: 30px;
+        font-size: 12px;
+    }
+    
+    #LatestBoxContent {
+        display: flex;
+        flex-direction: column;
+        justify-self: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    #model img {
+        width: 250px;
+        height: 150px;
+        border-radius: 6px;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    
+    #modeloverlay {
+        font-size: medium;
+        left: 25%;
+    }
+    
+    #blogs ul li {
+        gap: 6px;
+        text-align: center;
+        margin-left: 2px;
+    }
+    
+    #blogs p, #blog2 p, #blog3 p, #blog4 p, #blog5 p {
+        font-size: 6px;
+        border-radius: 2px;
+    }
+    
+    #blogs a, #blog2 a, #blog3 a, #blog4 a, #blog5 a {
+        font-size: 8px;
+        margin-right: 50px;
+    }
+
+    #Brands {
+        height: 20px;
+    }
+    
+    #Brands h2 {
+        font-size: 12px;
+        margin-top: 50px;
+        
+    }
+    
+    #list  {
+        font-size: 8px;
+        gap: 10px;
+        margin-top: 80px;
+        margin-bottom: 70px;
+    }
+    
+    #back {
+        font-size: 6px;
+        font-weight: 600;
+        margin-bottom: 10px;
+    }
+    
+
+    #footer {
+        gap: 8px;
+        height: 120px;
+    }
+    
+    
+    #about, #information, #account, #customer {
+        gap: 6px;
+        margin-top: 30px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    
+    #about h4, #information h4, #account h4, #customer h4 {
+        font-size: 8px;
+        margin-bottom: 6px;
+    }
+    
+    
+    #about p, #information p, #account p, #customer p {
+        font-size: 6px;
+        margin-top: none;
+        opacity: 1;
+    }
+    
+    #h6 {
+        font-size: 6px;
+        font-weight: lighter;
+    }
+
+}
+
+
+
+
+
+
+
+    
+
+
